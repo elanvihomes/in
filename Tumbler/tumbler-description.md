@@ -45,11 +45,10 @@ Included Components	Vaccum Tumbler
 Country of Origin	India
 Manufacturer	Elanvi Homes
 Model number	2026
-Packer Contact Information	elanvihomes@gmail.com
+Packer Contact Information	hello@elanvihomes.in
 Item Type Name	Vaccum Tumbler
 
 ASIN	B0GZWJ6BTM
-Customer Reviews	5.0 5.0 out of 5 stars   (2736)
 
 Features & Specs
 Other Special Features of the Product	Vacuum Insulated

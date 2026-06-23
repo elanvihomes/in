@@ -44,8 +44,8 @@ Brand	ELANVI HOMES
 Recommended Uses For Product	Water
 Model Name	Stainless Steel Water Bottle with Double Wall Vacuum
 Country of Origin	India
-Manufacturer	shruthidigital27@gmail.com
-Packer Contact Information	shruthidigital27@gmail.com
+Manufacturer	hello@elanvihomes.in
+Packer Contact Information	hello@elanvihomes.in
 Unit Count	1 Count
 Item Type Name	Elanvi Stainless Steel Water Bottle 500ml | Double Wall Vacuum Insulated Leakproof Flask for Office, School, Gym & Travel | Floral Print
 
